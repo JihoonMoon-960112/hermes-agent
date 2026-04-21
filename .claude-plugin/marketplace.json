@@ -1,0 +1,23 @@
+{
+  "name": "hermes-agent",
+  "id": "hermes-agent",
+  "owner": {
+    "name": "NousResearch"
+  },
+  "metadata": {
+    "description": "NousResearch Hermes Agent skill library",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hermes-agent",
+      "source": "./",
+      "description": "77 skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "NousResearch"
+      },
+      "category": "productivity"
+    }
+  ]
+}
